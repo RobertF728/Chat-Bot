@@ -1,4 +1,4 @@
-# Chat Bot - Regras do Futebol
+# Chat Bot - Regras do Futebol ⚽
 
 ## Descrição
 Olá pessoal trago para vocês um projeto de Chat Bot com o tema relacionado as regras de futebol.
