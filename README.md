@@ -6,7 +6,7 @@ Olá pessoal trago para vocês um projeto de Chat Bot com o tema relacionado as 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Tecnologias Utilizadas
-- IA Generativa https://chatgpt.com para auxilio la criação do código e intação das bibliotecas;
+- IA Generativa https://chatgpt.com para auxilio na criação do código e instalação das bibliotecas;
 - Editor de código https://code.visualstudio.com;
 
 ## Processo de Criação
